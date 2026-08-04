@@ -17,7 +17,7 @@
 ### Featured Engineering Projects
 
 *   **[Autonomous Financial Evaluation System (Multi-Agent)](#)**
-    *Architected a 5-node agentic workflow (LangGraph + Claude Sonnet 4.6) with a master evaluator for market viability analysis. Solved state space explosion $O(N \times M)$ using strict DAGs and context pruning.*
+    *Architected a 5-node agentic workflow (LangGraph + Claude Sonnet 4.6) with a master evaluator for market viability analysis. Solved state space explosion O(N × M) using strict DAGs and context pruning.*
 *   **[Kisabella Analytics (Data Engineering PoC)](https://github.com/AdonnayBazaldua/Kisabella-s-liquor-distribution)**
     *End-to-end Medallion architecture ETL pipeline. Replaced JVM overhead by using Polars + DuckDB to process 1.7GB of raw transactional data into a highly optimized Star Schema in under 90 seconds.*
 *   **[Stateless FastAPI Memory Assistant](https://github.com/AdonnayBazaldua/Assistant-con-Memoria-en-FastAPI)**
@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats
 
-[![Adonnay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdonnayBazaldua&show_icons=true&theme=radium&hide_border=true)](https://github.com/AdonnayBazaldua)
+[![Adonnay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdonnayBazaldua&theme=react-dark&hide_border=true)](https://github.com/AdonnayBazaldua)
 
 ---
 *“In theory, theory and practice are the same. In practice, they are not.”*
