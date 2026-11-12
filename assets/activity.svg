@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="837" height="190" viewBox="0 0 837 190" role="img" aria-labelledby="t d">
+<title id="t">GitHub activity intensity</title>
+<desc id="d">Relative contribution intensity across the last twelve periods.</desc>
+<rect width="100%" height="100%" rx="8" fill="#0d1117"/>
+<text x="18" y="28" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="15" font-weight="600">Activity intensity</text>
+<text x="18" y="48" fill="#8b949e" font-family="Arial,sans-serif" font-size="11">Relative contribution levels across the last year</text>
+<rect x="34" y="137" width="34" height="8" rx="4" fill="#238636"><title>Nov · relative intensity 3</title></rect>
+<text x="51" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Nov</text>
+<rect x="100" y="132" width="34" height="13" rx="4" fill="#238636"><title>Jun · relative intensity 6</title></rect>
+<text x="117" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Jun</text>
+<rect x="166" y="90" width="34" height="55" rx="4" fill="#238636"><title>Jan · relative intensity 24</title></rect>
+<text x="183" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Jan</text>
+<rect x="232" y="111" width="34" height="34" rx="4" fill="#238636"><title>Aug · relative intensity 15</title></rect>
+<text x="249" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Aug</text>
+<rect x="298" y="83" width="34" height="62" rx="4" fill="#238636"><title>Mar · relative intensity 27</title></rect>
+<text x="315" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Mar</text>
+<rect x="364" y="99" width="34" height="46" rx="4" fill="#238636"><title>Oct · relative intensity 20</title></rect>
+<text x="381" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Oct</text>
+<rect x="430" y="50" width="34" height="95" rx="4" fill="#238636"><title>May · relative intensity 41</title></rect>
+<text x="447" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">May</text>
+<rect x="496" y="104" width="34" height="41" rx="4" fill="#238636"><title>Dec · relative intensity 18</title></rect>
+<text x="513" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Dec</text>
+<rect x="562" y="88" width="34" height="57" rx="4" fill="#238636"><title>Jul · relative intensity 25</title></rect>
+<text x="579" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Jul</text>
+<rect x="628" y="78" width="34" height="67" rx="4" fill="#238636"><title>Feb · relative intensity 29</title></rect>
+<text x="645" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Feb</text>
+<rect x="694" y="113" width="34" height="32" rx="4" fill="#238636"><title>Sep · relative intensity 14</title></rect>
+<text x="711" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">Sep</text>
+<rect x="760" y="97" width="34" height="48" rx="4" fill="#238636"><title>May · relative intensity 21</title></rect>
+<text x="777" y="166" fill="#8b949e" font-family="Arial,sans-serif" font-size="10" text-anchor="middle">May</text>
+</svg>
