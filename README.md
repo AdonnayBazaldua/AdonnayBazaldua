@@ -55,6 +55,15 @@ Session-isolated conversational API built with FastAPI, LangChain and LangGraph.
 
 Deep learning study using approximately 2.1 million investigation records from Mexico City to explore classification, temporal prediction, spatial patterns and anomaly detection.
 
+## GitHub snapshot
+
+<div align="center">
+
+<img src="./assets/github-overview.svg" alt="GitHub profile overview" width="520" />
+<img src="./assets/github-streak.svg" alt="Contribution rhythm" width="520" />
+
+</div>
+
 ## Engineering signals
 
 <div align="center">
