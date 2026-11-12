@@ -61,6 +61,11 @@ Deep learning study using approximately 2.1 million investigation records from M
 
 <img src="./assets/contribution-graph.svg" alt="Contribution activity over the last year" width="837" />
 
+<br />
+
+<img src="./assets/languages.svg" alt="Repository language distribution" width="520" />
+<img src="./assets/activity.svg" alt="GitHub activity intensity" width="837" />
+
 </div>
 
 <div align="center">
