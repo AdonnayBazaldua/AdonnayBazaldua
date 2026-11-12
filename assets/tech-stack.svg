@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-labelledby="t d">
+<title id="t">Technology stack</title>
+<desc id="d">Technologies used across AI engineering, data engineering and production systems.</desc>
+<rect width="100%" height="100%" rx="8" fill="#0d1117"/>
+<text x="20" y="32" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="16" font-weight="600">Technology stack</text>
+<text x="20" y="72" fill="#8b949e" font-family="Arial,sans-serif" font-size="12" font-weight="600">Languages</text>
+<rect x="150" y="55" width="76" height="26" rx="13" fill="#3776ab" opacity="0.92"/>
+<text x="188.0" y="73" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">Python</text>
+<rect x="236" y="55" width="108" height="26" rx="13" fill="#3178c6" opacity="0.92"/>
+<text x="290.0" y="73" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">TypeScript</text>
+<rect x="354" y="55" width="74" height="26" rx="13" fill="#276dc3" opacity="0.92"/>
+<text x="391.0" y="73" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">R</text>
+<rect x="438" y="55" width="74" height="26" rx="13" fill="#4479a1" opacity="0.92"/>
+<text x="475.0" y="73" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">SQL</text>
+<rect x="522" y="55" width="74" height="26" rx="13" fill="#4eaa25" opacity="0.92"/>
+<text x="559.0" y="73" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">Bash</text>
+<text x="20" y="126" fill="#8b949e" font-family="Arial,sans-serif" font-size="12" font-weight="600">AI and data</text>
+<rect x="150" y="109" width="100" height="26" rx="13" fill="#1c3c3c" opacity="0.92"/>
+<text x="200.0" y="127" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">LangGraph</text>
+<rect x="260" y="109" width="100" height="26" rx="13" fill="#1c3c3c" opacity="0.92"/>
+<text x="310.0" y="127" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">LangChain</text>
+<rect x="370" y="109" width="108" height="26" rx="13" fill="#ff6f00" opacity="0.92"/>
+<text x="424.0" y="127" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">TensorFlow</text>
+<rect x="488" y="109" width="76" height="26" rx="13" fill="#cd792c" opacity="0.92"/>
+<text x="526.0" y="127" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">Polars</text>
+<rect x="574" y="109" width="76" height="26" rx="13" fill="#fbc02d" opacity="0.92"/>
+<text x="612.0" y="127" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">DuckDB</text>
+<text x="20" y="180" fill="#8b949e" font-family="Arial,sans-serif" font-size="12" font-weight="600">Backend and delivery</text>
+<rect x="150" y="163" width="84" height="26" rx="13" fill="#009688" opacity="0.92"/>
+<text x="192.0" y="181" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">FastAPI</text>
+<rect x="244" y="163" width="108" height="26" rx="13" fill="#4169e1" opacity="0.92"/>
+<text x="298.0" y="181" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">PostgreSQL</text>
+<rect x="362" y="163" width="76" height="26" rx="13" fill="#2496ed" opacity="0.92"/>
+<text x="400.0" y="181" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">Docker</text>
+<rect x="448" y="163" width="84" height="26" rx="13" fill="#000000" opacity="0.92"/>
+<text x="490.0" y="181" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">Next.js</text>
+<rect x="542" y="163" width="100" height="26" rx="13" fill="#ff4b4b" opacity="0.92"/>
+<text x="592.0" y="181" fill="#ffffff" font-family="Arial,sans-serif" font-size="11" text-anchor="middle">Streamlit</text>
+</svg>
