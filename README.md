@@ -59,14 +59,13 @@ Deep learning study using approximately 2.1 million investigation records from M
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdonnayBazaldua&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdonnayBazaldua&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e" alt="Most used languages" />
+<img src="./assets/contribution-graph.svg" alt="Contribution activity over the last year" width="837" />
 
 </div>
 
 <div align="center">
 
-[![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=AdonnayBazaldua&bg_color=0d1117&color=8b949e&line=58a6ff&point=f0883e&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20activity)](https://github.com/AdonnayBazaldua)
+[View the current contribution calendar on GitHub](https://github.com/AdonnayBazaldua)
 
 </div>
 
