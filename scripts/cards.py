@@ -79,9 +79,7 @@ def main():
     total = cc["contributionCalendar"]["totalContributions"]
     active = sum(1 for c in counts if c)
     best = max(days, key=lambda d: d["contributionCount"])
-    private_pct = round(100 * cc["restrictedContributionsCount"] / total) if total else 0
     repos = viewer["repositories"]
-    n_private = sum(r["isPrivate"] for r in repos["nodes"])
 
     OUT.mkdir(exist_ok=True)
 
@@ -109,9 +107,7 @@ def main():
     cuts = [nz[len(nz) * q // 4] for q in (1, 2, 3)] if nz else [1, 2, 3]
     body = [eyebrow(X0, 36, "last 12 months"),
             f'<text x="{X0}" y="76" font-family="{SANS}"><tspan fill="{TEXT}" font-size="34" font-weight="700">{total:,}</tspan>'
-            f'<tspan fill="{MUTED}" font-size="15" dx="8">contributions</tspan></text>',
-            f'<text x="{W - X0}" y="76" text-anchor="end" font-family="{SANS}" font-size="14" fill="{MUTED}">'
-            f'<tspan fill="{TEAL}" font-weight="700">{private_pct}%</tspan> in private repositories</text>']
+            f'<tspan fill="{MUTED}" font-size="15" dx="8">contributions</tspan></text>']
     prev_month, last_label_x = None, -99
     for i, w in enumerate(weeks):
         x = X0 + i * STEP
@@ -133,12 +129,12 @@ def main():
     stats = [(active, "active days"), (f"{longest_streak(counts)}d", "longest streak"),
              (f"{total / active:.1f}" if active else "0", "per active day"),
              (best["contributionCount"], "busiest day, " + date.fromisoformat(best["date"]).strftime("%b %-d")),
-             (repos["totalCount"], f"repositories, {n_private} private")]
+             (repos["totalCount"], "repositories")]
     body.append(f'<line x1="{X0}" x2="{W - X0}" y1="{ly + 28}" y2="{ly + 28}" stroke="{BORDER}" opacity=".6"/>')
     for i, (v, label) in enumerate(stats):
         x = X0 + i * (W - 2 * X0) / len(stats)
         body.append(t(x, ly + 58, v, 20, TEXT, 700) + t(x, ly + 76, label, 11, MUTED))
-    card("pulse.svg", W, H, f"{total:,} contributions in the last 12 months, {private_pct}% in private repositories",
+    card("pulse.svg", W, H, f"{total:,} contributions in the last 12 months",
          "".join(body))
 
     # ── languages: share of source code by bytes ─────────────────────────
