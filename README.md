@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://www.linkedin.com/in/adonnay-bazald%C3%BAa-62443b29a/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:david.jimenez@getzerovox.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge" alt="Email" /></a>
+<a href="mailto:adonnay00@outlook.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge" alt="Email" /></a>
 
 </div>
 
